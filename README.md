@@ -1,12 +1,9 @@
-# Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
+# IAs Generativas: Novas Dinâmicas para o Mercado de Arte
 
-## 🚀 Introdução
+## 📒 Descrição
 
-> Woooow! Look at this 👀
-
-Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
-
-## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
+> A presente atividade é resultado do desafio proposto no módulo II de Inteligência Artificial Aplicada-Curso:CAIXA:IA Generativa com Microsoft Copilot.
+> Desafios de Código: Aperfeiçoe sua lógica e pensamento Computacional.
 
 ### Objetivos
 
